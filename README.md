@@ -1,17 +1,19 @@
-    # GTA:SA simple internal trainer
+# GTA:SA simple internal trainer
 
-    Simple internal trainer (.dll) with infinite ammo feature.
+Simple internal trainer (.dll) with infinite ammo feature.
 
-    ## Getting Started
+![alt text](http://h4570.net/gta_sa_trainer.png)
 
-    To compile this trainer, you will need a c++ compiler and injector. I recommend mingw and extreme injector.
+## Getting Started
 
-    ### Compiling
+To compile this trainer, you will need a c++ compiler and injector. I recommend mingw and extreme injector.
 
-    ```
-    g++ -shared -o dist/main.dll src/main.cpp src/lib/utility.cpp src/lib/offsets.cpp src/lib/sdk/gui.cpp src/lib/sdk/weapon.cpp src/lib/threads/ammo.cpp src/lib/threads/guard.cpp
-    ```
+### Compiling
 
-    ## License
+```
+g++ -shared -o dist/main.dll src/main.cpp src/lib/utility.cpp src/lib/offsets.cpp src/lib/sdk/gui.cpp src/lib/sdk/weapon.cpp src/lib/threads/ammo.cpp src/lib/threads/guard.cpp
+```
 
-    This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
