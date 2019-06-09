@@ -3,9 +3,10 @@
 Simple internal trainer (.dll) with infinite ammo feature.
 
 X+Z: Uninject dll from gta_sa.exe process
+
 F5: Enable infinite ammo
 
-![alt text](http://h4570.net/gta_sa_trainer.png)
+![alt text](http://h4570.net/gta_sa_trainer2.png)
 
 ## Getting Started
 
