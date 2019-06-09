@@ -10,7 +10,9 @@ F5: Enable infinite ammo
 
 ## Getting Started
 
-To compile this trainer, you will need a c++ compiler and injector. I recommend mingw and extreme injector.
+To compile this trainer, you will need a c++ compiler (i used mingw).
+
+If u want attach trainer to gta, use dll injector (ex. extreme injector). 
 
 ### Compiling
 
