@@ -6,7 +6,7 @@ X+Z: Uninject dll from gta_sa.exe process
 
 F5: Enable infinite ammo
 
-![alt text](http://h4570.net/gta_sa_trainer2.png)
+![alt text](http://apgcglz.cluster028.hosting.ovh.net/gta_sa_trainer2.png)
 
 ## Getting Started
 
