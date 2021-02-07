@@ -23,3 +23,5 @@ g++ -shared -o dist/main.dll src/main.cpp src/lib/utility.cpp src/lib/offsets.cp
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+[![Stargazers repo roster for h4570/gtasa-internal-trainer](https://reporoster.com/stars/h4570/gtasa-internal-trainer)](https://github.com/h4570/gtasa-internal-trainer/stargazers)
