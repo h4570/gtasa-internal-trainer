@@ -1,27 +1,35 @@
-# GTA:SA simple internal trainer
+# GTA SA - simple internal trainer
 
-Simple internal trainer (.dll) with infinite ammo feature.
+[![Contributors][contributors-shield]][contributors-url]
+[![MIT License][license-shield]][license-url]
 
-X+Z: Uninject dll from gta_sa.exe process
+<img src="http://apgcglz.cluster028.hosting.ovh.net/github/gtasa-internal-trainer/main.png" alt="Logo" width="80%" height="auto">
 
-F5: Enable infinite ammo
 
-![alt text](http://apgcglz.cluster028.hosting.ovh.net/gta_sa_trainer2.png)
+## About the project
+This project is a short example of internal (.dll) game trainer.
+* F5 - Enable infinite ammo
+* X+Z - Uninject dll from gta_sa.exe process
+ 
+## Technology stack 
 
-## Getting Started
+* C++98
 
-To compile this trainer, you will need a c++ compiler (i used mingw).
+## Getting Started  
 
-If u want attach trainer to gta, use dll injector (ex. extreme injector). 
+To compile this trainer, you will need a c++ compiler. I've used MINGW.
 
-### Compiling
+If u want attach trainer to GTA SA process, please use any of the dll injectors. I have used *extreme injector*. 
 
-```
-g++ -shared -o dist/main.dll src/main.cpp src/lib/utility.cpp src/lib/offsets.cpp src/lib/sdk/gui.cpp src/lib/sdk/weapon.cpp src/lib/threads/ammo.cpp src/lib/threads/guard.cpp
-```
+## License  
 
-## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details  
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+Project Link: [https://github.com/h4570/gtasa-internal-trainer](https://github.com/h4570/gtasa-internal-trainer)  
 
-[![Stargazers repo roster for h4570/gtasa-internal-trainer](https://reporoster.com/stars/h4570/gtasa-internal-trainer)](https://github.com/h4570/gtasa-internal-trainer/stargazers)
+[![Stargazers repo roster for h4570/gtasa-internal-trainer](https://reporoster.com/stars/h4570/gtasa-internal-trainer)](https://github.com/h4570/gtasa-internal-trainer/stargazers)  
+
+[contributors-shield]: https://img.shields.io/github/contributors/h4570/gtasa-internal-trainer.svg?style=flat-square  
+[contributors-url]: https://github.com/h4570/gtasa-internal-trainer/graphs/contributors 
+[license-shield]: https://img.shields.io/github/license/h4570/gtasa-internal-trainer.svg?style=flat-square  
+[license-url]: https://github.com/h4570/gtasa-internal-trainer/blob/master/LICENSE  
