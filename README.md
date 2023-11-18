@@ -3,7 +3,7 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![MIT License][license-shield]][license-url]
 
-<img src="http://apgcglz.cluster028.hosting.ovh.net/github/gtasa-internal-trainer/main.png" alt="Logo" width="50%" height="auto">
+<img src="https://raw.githubusercontent.com/h4570/gtasa-internal-trainer/master/docs/main.png" alt="Logo" width="50%" height="auto">
 
 
 ## About the project
