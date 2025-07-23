@@ -26,6 +26,7 @@ If u want attach trainer to GTA SA process, please use any of the dll injectors.
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details  
 
 Project Link: [https://github.com/h4570/gtasa-internal-trainer](https://github.com/h4570/gtasa-internal-trainer)  
+Check my blog at <a href="https://hasto.pl">hasto.pl</a>  
 
 [![Stargazers repo roster for h4570/gtasa-internal-trainer](https://reporoster.com/stars/h4570/gtasa-internal-trainer)](https://github.com/h4570/gtasa-internal-trainer/stargazers)  
 
